@@ -1,45 +1,47 @@
-# zherpiskiller.github.io
-# 🕶️ zherpis killer
+# 🧠 zherpis killer
 
-🔐 **Hacker Underground | Operações Silenciosas | 4+ anos de atividade**
-
----
-
-## 🎯 Especialidades
-- Pentest Avançado (web, redes, APIs)
-- Engenharia Social estratégica
-- Invasão de Wi-Fi & coleta de dados
-- Dumps e defaces em massa
+🔐 Hacker underground com mais de 4 anos de atuação. Especialista em ações silenciosas, engenharia social, invasões direcionadas e vazamentos estratégicos.
 
 ---
 
-## 💣 Operações Marcantes
-- `ShadowNet` — rastreio e coleta de dados expostos
-- `STJ / NASA / xGov` — acesso e dump de painéis críticos
-- `Paneleiros (ex)` — movimentações de vazamento organizadas
+## 🩸 Histórico
+- Invasões em sites governamentais e institucionais
+- Dumps de bases fiscais, políticas e privadas
+- Operações com ex-grupos como os Paneleiros
+- Execução de DDoS em alvos selecionados
+- Acesso não autorizado em ambientes críticos (STJ, NASA, xGov)
 
 ---
 
-## 🧠 Ferramentas & Skills
-- SQLMap, Hydra, Aircrack-ng, Metasploit, Burp Suite
-- Desenvolvimento de payloads personalizados
-- Reconhecimento e footprint invisível
+## 🎯 Habilidades
+- Pentest manual e ofensivo
+- Engenharia social avançada (1:1, Discord, Telegram)
+- Desenvolvimento de payloads e scripts de ataque
+- Manipulação de sistemas Wi-Fi e redes corporativas
 
 ---
 
-## 🗂 Bases & Dumps
-- `dump_290_notas_fiscais.csv`
-- `leak_xpanel_politico_2024.txt`
-- + Outras sob pedido (via canal seguro)
+## 🧰 Ferramentas dominadas
+- SQLMap (modificado)
+- Metasploit
+- Aircrack-ng
+- Ferramentas próprias (xGhost, dumpkit, shell_xk)
 
 ---
 
-## 📡 Contato (apenas canais seguros)
-- Tox ID: `coloca o seu aqui`
+## 📂 Vazamentos (Exemplos)
+- dump_290_notas_fiscais.csv
+- painel_politico_leak2024.txt
+- coldvault.enc (sob chave de segurança)
+
+---
+
+## 📡 Contato (restrito)
 - Session: `@zherpiskiller`
-- Telegram: `@zherpiskiller` (se for público)
+- Tox: somente via QR
+- Não atendo curiosos. Canal seguro ou nem insista.
 
 ---
 
-> _"Os dados têm donos. Mas os donos nem sempre têm consciência disso."_  
-> — zherpis killer
+_"Informação silenciosa tem mais impacto do que barulho sem sentido."_  
+— zherpis killer
