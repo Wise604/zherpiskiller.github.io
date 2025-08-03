@@ -1,4 +1,4 @@
-# 🧠 zherpis killer
+# 🧠 zherpis_killer
 
 🔐 Hacker underground com mais de 4 anos de atuação. Especialista em ações silenciosas, engenharia social, invasões direcionadas e vazamentos estratégicos.
 
